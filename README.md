@@ -1,16 +1,16 @@
 # All You Need Know About Object Oriented Programming in Python
 
 ## Table of Contents
-[Introduction](#intro)
-[Object Oriented Programming Keywords](#OOP)
-[Creating a template for an object](#temp)
-[Creating An Instance](#inst)
-[Creating getters for an object](#get)
-[Creating set methods](#set)
-[Inheritance](#inherit)
-[Polymorphism](#poly)
-[Encapsulation](#encap)
-[Summary](#summary)
+### [Introduction](#intro)
+### [Object Oriented Programming Keywords](#OOP)
+### [Creating a template for an object](#temp)
+### [Creating An Instance](#inst)
+### [Creating getters for an object](#get)
+### [Creating set methods](#set)
+### [Inheritance](#inherit)
+### [Polymorphism](#poly)
+### [Encapsulation](#encap)
+### [Summary](#summary)
 
 Object-oriented programming (OOP)<a name="intro"></a> is another programming paradigm that was derived from procedural programming. The first language to include object-oriented principles was called [Simula](https://en.wikipedia.org/wiki/Simula), released in 1967. Now a number of modern languages use or allow the use of OOP.
 
