@@ -64,7 +64,7 @@ class Bank_account:
         self.balance = balance
 ```
 
-*init* here stands for ‘initialise’. In this example we can see the **Bank_account** will have a, account_name, _account_number_, and _balance_. These are the attributes that the **Bank_account** will have.
+*init* here stands for ‘initialise’. In this example we can see the *Bank_account* will have a, account_name, _account_number_, and _balance_. These are the attributes that the **Bank_account** will have.
 
 **Note:** If we set the attribute values to _None_, they would start off with no value.
 
